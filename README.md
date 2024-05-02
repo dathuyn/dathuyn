@@ -1,4 +1,4 @@
-# <h1></h1> <h1></h1> <h1></h1>💫Hello I'm DatxCute
+# <h1></h1> <h1></h1>💫Hello I'm DatxCute
 <h1>Developer in Minecraft Server in VIETNAM</h1>
 
 - 🔭 Freelance work Free time

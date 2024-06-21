@@ -2,7 +2,7 @@
 <h1>Developer in Minecraft Server in VIETNAM</h1>
 
 - 🔭 Freelance work Free time
-- 👯 An enthusiastic Bukkit developer comes to VietNam
+- 👯 An enthusiastic Bukkit developer from in VietNam
 - 💬 Ask me about Minecraft Server, Minecraft Laucher
 - 📫 You want to code some plugin? Contact to me: dathuynhthanh121@gmail.com
 
